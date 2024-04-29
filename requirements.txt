@@ -1,0 +1,10 @@
+altair
+pandas
+streamlit
+sqlite3
+redis
+rq_scheduler
+send_email
+pillow
+numpy
+sendgrid
