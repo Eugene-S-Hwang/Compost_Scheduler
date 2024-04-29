@@ -1,6 +1,4 @@
 pandas
-streamlit
-sqlite3
 redis
 rq_scheduler
 send_email
