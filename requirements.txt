@@ -5,3 +5,4 @@ send_email
 pillow
 numpy
 sendgrid
+streamlit
